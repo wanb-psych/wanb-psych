@@ -1,4 +1,8 @@
 ### Hi there 👋
+My name is Bin Wan, a researcher interested in gene-environment effects on brain and cognitive development. 
+
+<img align="center" width="180" height="180" src="research_logo.png">
+
 
 <!--
 **wanb-psych/wanb-psych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
