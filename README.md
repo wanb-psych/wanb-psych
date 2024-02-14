@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Bin Wan, a researcher interested in gene-environment effects on brain and cognitive development. 
 
-<img align="center" width="180" height="180" src="research_logo.png">
+<img align="center" src="research_logo.png">
 
 
 <!--
