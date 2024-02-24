@@ -1,6 +1,6 @@
 # Gene-environment effects on brain and cognitive development
 ### My name is Bin Wan, a researcher interested in cognitive neurogenetics.  
-### Personal website visit: <a href="https://wanb-psych.netlify.app">wanb-psych.netlify.app</a>
+### Personal website visit: <a href="https://wanb-psych.netlify.app" target="_blank">wanb-psych.netlify.app</a>
 
 <img align="center" src="research_logo.png">
 
